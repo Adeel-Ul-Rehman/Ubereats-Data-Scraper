@@ -1,0 +1,155 @@
+mcdonald
+burger king
+wendy
+sonic
+jack in the box
+whataburger
+in-n-out
+white castle
+five guys
+shake shack
+culvers
+checkers
+rallys
+carls jr
+hardees
+steak n shake
+freddys
+a&w
+fatburger
+wayback burgers
+chick-fil-a
+kfc
+popeyes
+wingstop
+raising canes
+zaxbys
+bojangles
+churchs chicken
+el pollo loco
+daves hot chicken
+jollibee
+slim chickens
+buffalo wild wings
+boston market
+dominos
+pizza hut
+papa johns
+little caesars
+marcos pizza
+papa murphys
+hungry howies
+round table pizza
+pizza ranch
+blaze pizza
+mod pizza
+jets pizza
+cicis
+donatos
+mellow mushroom
+subway
+jimmy johns
+jersey mikes
+firehouse subs
+quiznos
+potbelly
+which wich
+schlotzskys
+jasons deli
+mcalisters deli
+capriottis
+penn station
+charleys cheesesteaks
+blimpie
+taco bell
+chipotle
+qdoba
+moes
+baja fresh
+del taco
+rubios
+torchys tacos
+chuys
+on the border
+taco cabana
+cafe rio
+starbucks
+dunkin
+caribou coffee
+peets coffee
+tim hortons
+panera bread
+einstein bros
+brueggers
+cinnabon
+krispy kreme
+baskin robbins
+cold stone
+ben and jerrys
+haagen dazs
+crumbl cookies
+insomnia cookies
+auntie annes
+jamba juice
+tropical smoothie cafe
+smoothie king
+dutch bros coffee
+olive garden
+applebees
+chilis
+outback steakhouse
+red lobster
+texas roadhouse
+ihop
+dennys
+waffle house
+cheesecake factory
+pf changs
+bjs restaurant
+red robin
+tgi fridays
+hooters
+millers ale house
+maggianos
+longhorn steakhouse
+carrabbas
+bonefish grill
+california pizza kitchen
+panda express
+pei wei
+benihana
+genghis grill
+pick up stix
+teriyaki madness
+din tai fung
+itsu
+wagamama
+sweetgreen
+dig
+saladworks
+cava
+chopt
+true food kitchen
+nandos
+walmart
+target
+cvs
+walgreens
+rite aid
+7-eleven
+kroger
+safeway
+publix
+whole foods
+trader joes
+aldi
+costco
+sams club
+dollar general
+wawa
+sheetz
+circle k
+gnc
+petco
+petsmart
+dairy queen

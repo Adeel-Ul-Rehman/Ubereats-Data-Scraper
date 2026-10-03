@@ -1,0 +1,190 @@
+"""
+UberEats Scraper - Quick Reference
+Fast commands and troubleshooting
+"""
+
+# ============================================================================
+# QUICK START
+# ============================================================================
+
+# 1. Activate virtual environment
+cd e:\mailScraping
+.\.venv\Scripts\Activate.ps1
+
+# 2. Install dependencies (first time only)
+pip install playwright
+playwright install chromium
+
+# 3. Run the scraper
+cd uberdata
+python scraper_launcher.py
+
+# ============================================================================
+# AVAILABLE COMMANDS
+# ============================================================================
+
+# Run with launcher (recommended)
+python scraper_launcher.py
+
+# Run directly
+python uber_scraper_enhanced.py
+
+# Run diagnostics
+python test_scraper.py
+
+# ============================================================================
+# CONFIGURATION
+# ============================================================================
+
+# Edit these settings in uber_scraper_enhanced.py:
+
+CONFIG = {
+    'MIN_RATING': 4.0,              # Lower = more restaurants
+    'MIN_REVIEWS': 100,             # Lower = more restaurants
+    'BROWSER_HEADLESS': False,      # True = no window shown
+    'SCROLL_PAUSE': 1.0,            # Higher = slower but more stable
+    'SCROLL_DISTANCE': 400,         # Pixels per scroll
+    'SCROLL_NO_CHANGE_THRESHOLD': 3, # When to stop scrolling
+}
+
+# ============================================================================
+# TROUBLESHOOTING
+# ============================================================================
+
+Problem: "playwright not found"
+Solution: pip install playwright
+
+Problem: "chromium not installed"
+Solution: playwright install chromium
+
+Problem: No restaurants found
+Solution: 
+  1. Let browser open
+  2. Manually select city in browser
+  3. Wait for restaurants to load
+  4. Come back to terminal
+
+Problem: Slow performance
+Solution:
+  - Reduce SCROLL_PAUSE (1.0 → 0.5)
+  - Reduce BROWSER_TIMEOUT
+  - Check internet connection
+
+Problem: Getting blocked
+Solution:
+  - Scraper has anti-detection built-in
+  - If blocked, try again later
+  - Use different states to spread load
+
+# ============================================================================
+# OUTPUT FILES
+# ============================================================================
+
+Location: e:\mailScraping\uberdata\ubereats_data\
+
+Format: restaurants_[STATE]_[TIMESTAMP].csv
+
+Columns:
+  - Name: Restaurant name
+  - Address: Street address
+  - Rating: Star rating (e.g., 4.5)
+  - Reviews: Number of reviews
+  - URL: Link to restaurant
+
+# ============================================================================
+# EXPECTED RESULTS
+# ============================================================================
+
+For one state (e.g., TX) with 3-5 cities:
+  - Collect: 500-2000 restaurant cards
+  - After filtering: 50-300 restaurants
+  - Time: 10-30 minutes
+  - Output size: 10-50 KB
+
+# ============================================================================
+# DATA QUALITY
+# ============================================================================
+
+Filtering applied:
+  ✅ Rating ≥ 4.0 (customizable)
+  ✅ Reviews ≥ 100 (customizable)
+  ✅ Not a chain restaurant
+
+Chains excluded: McDonald's, Burger King, Chipotle, Panera, etc.
+
+# ============================================================================
+# USING THE DATA FOR ML
+# ============================================================================
+
+import pandas as pd
+
+# Load
+df = pd.read_csv('ubereats_data/restaurants_TX_20260421.csv')
+
+# Explore
+print(df.head())
+print(df.info())
+print(df.describe())
+
+# Clean
+df = df.dropna(subset=['Name', 'Address'])
+df = df[df['Rating'] > 0]
+
+# Stats
+print(f"Restaurants: {len(df)}")
+print(f"Avg rating: {df['Rating'].mean():.2f}")
+print(f"Avg reviews: {df['Reviews'].mean():.0f}")
+
+# Feature engineering
+df['review_score'] = df['Rating'] * df['Reviews']
+df['review_category'] = pd.cut(df['Reviews'], bins=[0, 100, 500, 1000, 999999], 
+                                labels=['New', 'Popular', 'Very Popular', 'Highly Rated'])
+
+# Save for training
+df[['Name', 'Address', 'Rating', 'Reviews']].to_csv('clean_restaurants.csv', index=False)
+
+# ============================================================================
+# FILE MANAGEMENT
+# ============================================================================
+
+# View output files
+ls ubereats_data\*.csv
+
+# Combine multiple states
+# (run scraper for CA, TX, FL, etc., then combine)
+Get-Content ubereats_data\restaurants_*.csv | Out-File combined.csv
+
+# ============================================================================
+# ADVANCED: CUSTOM STATES
+# ============================================================================
+
+# Add cities to STATE_CITIES dictionary in uber_scraper_enhanced.py:
+
+STATE_CITIES = {
+    'TX': ['Austin, TX', 'Houston, TX', 'Dallas, TX', 'San Antonio, TX'],
+    'CA': ['Los Angeles, CA', 'San Francisco, CA', 'San Diego, CA', 'Sacramento, CA'],
+    # Add more...
+}
+
+# ============================================================================
+# PERFORMANCE TIPS
+# ============================================================================
+
+1. Run during off-peak hours (night, early morning)
+2. Start with smaller states (DE, VT, MT)
+3. Use different states to avoid detection
+4. Increase SCROLL_PAUSE if getting timeouts
+5. Reduce SCROLL_PAUSE if too slow
+6. Check browser window is visible (not minimized)
+
+# ============================================================================
+# SUPPORT
+# ============================================================================
+
+1. Check SCRAPER_GUIDE.md for detailed help
+2. Run: python test_scraper.py for diagnostics
+3. Check console output for error messages
+4. Verify: playwright install chromium
+5. Verify: pip install playwright
+
+# ============================================================================

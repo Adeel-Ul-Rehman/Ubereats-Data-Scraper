@@ -1,0 +1,271 @@
+restaurant_name,address,rating,reviews,url,scraped_at
+1-800-Flowers.com,"144 N Maple Ave,, Fresno, CA 93702",80,0,https://www.ubereats.com/store/1-800-flowerscom/Bzp7NfFAUg2mX9NsjcIq-g,2026-04-21T23:28:02.038471
+Jimmy John's,515 Congress,4.7,410,https://www.ubereats.com/store/jimmy-johns-515-congress/thWYZgoOXjK1QPhzO9D_cw,2026-04-21T23:44:49.128780
+Jersey Mike's Subs,1000 East 41st Street,4.8,4000,https://www.ubereats.com/store/jersey-mikes-subs-austin-1000-east-41st-street/KxvHVUlPT1-6f-o0VMnWNg,2026-04-21T23:45:02.876727
+Chili's Grill & Bar,4420 N Lamar Blvd,4.5,2000,https://www.ubereats.com/store/chilis-grill-%26-bar-4420-n-lamar-blvd/9aaiwIf0TZWzj8lCHkc61Q,2026-04-21T23:45:18.706795
+Church's Texas Chicken,5339 Cameron Road,4.2,1000,https://www.ubereats.com/store/churchs-texas-chicken-5339-cameron-road/y2OYr5POSSCI2NV3_jIXMQ,2026-04-21T23:45:31.872197
+Potbelly Sandwich Works,2316 Guadalupe St,4.7,5000,https://www.ubereats.com/store/potbelly-sandwich-works-guadalupe-|-151/EA48f3SzRpGjO-nL_-8ccQ,2026-04-21T23:45:44.250806
+Local Foods,454 West 2nd Street,4.9,4000,https://www.ubereats.com/store/local-foods-2nd-street/IJwjBkN4SASr6KSFDeuaJA,2026-04-21T23:45:58.172654
+Chi'Lantro,303 Colorado St Ste 100,4.6,700,https://www.ubereats.com/store/chilantro-colorado-st/033DmqZiTGaxZfY4Nm0aEg,2026-04-21T23:46:11.839071
+P. Terry’s Burger Stand,515 Congress Avenue #130,4.4,700,https://www.ubereats.com/store/p-terrys-burger-stand-downtown/WeejzZ6gXiWBrbuaPrC6nA,2026-04-21T23:46:22.593386
+Austin Salad Company,214 E 6th St,4.5,1000,https://www.ubereats.com/store/austin-salad-company-6th-street/e4XO7sMbSpS5sye410nX6Q,2026-04-21T23:46:34.648411
+Taqueria De Diez,206 Trinity Street,4.6,1000,https://www.ubereats.com/store/taqueria-de-diez-trinity-street/rihL2V5BXcOMd3cLIvxydg,2026-04-21T23:46:45.660044
+Austin Soup and Sandwich,214 E 6th St,4.6,700,https://www.ubereats.com/store/austin-soup-and-sandwich-6th-street/ifyFa7hpWgesxmuovQhZLw,2026-04-21T23:47:09.863035
+Gyro Halal Eats,318 East 5th Street,4.3,150,https://www.ubereats.com/store/gyro-halal-eats-cesar-chavez/V8jEsBBYW3uGYmEbqTc7Fw,2026-04-21T23:47:22.968605
+Ali Gyro Halal,318 east 5th street  Austin Texas,4.4,310,https://www.ubereats.com/store/ali-gyro-halal-318-e-5th/5Rf5G23sQLulevmrf70Grg,2026-04-21T23:47:35.810647
+JuiceLand,120 E 4th St,4.8,180,https://www.ubereats.com/store/juiceland-frost-tower/o0bGkBIKXi2u3qW34WGUTQ,2026-04-21T23:47:46.639551
+Raku Sushi & Asian Bistro,2222 Rio Grande St,4.7,10000,https://www.ubereats.com/store/raku-sushi-%26-asian-bistro-rio-grande-st/PehYVoblSTOJeMeS3GMb3g,2026-04-21T23:47:59.264146
+Tso Chinese Takeout & Delivery,2407 South Congress Avenue Ste F,4.6,4000,https://www.ubereats.com/store/tso-chinese-takeout-%26-delivery-s-congress-tsoco/kGyDeS1-UYGIdC-8Jn51pA,2026-04-21T23:48:12.919891
+True Food Kitchen,222 West Ave,4.6,5000,https://www.ubereats.com/store/true-food-kitchen-seaholm/97-u0SXEQpe4IoxpiPR-rA,2026-04-21T23:48:25.603256
+The Kebab Shop,1011 E 5th St,4.7,1000,https://www.ubereats.com/store/the-kebab-shop-east-austin/qoKQYVwVTXKL3sQPuOs1wQ,2026-04-21T23:48:41.322543
+Halal Hub,539 W Oltorf St,4.8,15000,https://www.ubereats.com/store/halal-hub-oltorf/FllQV8lFQ6SVq8kfGBBLYQ,2026-04-21T23:48:54.625244
+Pokeworks,1920 East Riverside Drive,4.8,10000,https://www.ubereats.com/store/pokeworks-1920-e-riverside-dr/D3CCDB1MSu-HlKzI7eRCqA,2026-04-21T23:49:05.333331
+Home Slice Pizza,1415 S Congress Avenue,4.7,700,https://www.ubereats.com/store/home-slice-pizza-s-congress/5y1hT9ipUYGYvIgY7A1N5A,2026-04-21T23:49:16.192686
+Gus's World Famous Fried Chicken,117 San Jacinto Blvd,4.7,5000,https://www.ubereats.com/store/guss-world-famous-fried-chicken-austin/z8iD98iVQ4KHj5tT1pGoxA,2026-04-21T23:49:30.102372
+Target,901 E 5th St.,4.7,20000,https://www.ubereats.com/store/target-austin-saltillo/eNqLuRHYV_ylMpxnQZPSFQ,2026-04-21T23:49:40.297480
+Spec's,914 North Lamar,4.7,20000,https://www.ubereats.com/store/specs-north-lamar/L6DQKzYvUsa0-yW2c24ySw,2026-04-21T23:49:54.740164
+CVS,500 N CONGRESS AVE,4.7,20000,https://www.ubereats.com/store/cvs-500-n-congress-ave/SLCh44hSXUqawYrumpFNgQ,2026-04-21T23:50:13.215078
+Fiesta Mart,3909 N I-35 Srvc Rd,4.7,20000,https://www.ubereats.com/store/fiesta-mart-3909-n-i-35-srvc-rd/esGOIwjzVH6Nx7-n1fhN2Q,2026-04-21T23:50:23.022208
+Total Wine & More,1201 Barbara Jordan Blvd,4.7,20000,https://www.ubereats.com/store/total-wine-%26-more-mueller/dpqBGev9XSqw5nG0BHOX6A,2026-04-21T23:50:36.128362
+Costco,4301 West William Cannon Drive,4.7,20000,https://www.ubereats.com/store/costco-wholesale-s-austin/9i0X3McpXHuAHYYtUIk5yg,2026-04-21T23:50:50.922021
+Randalls,2727 Exposition Boulevard,4.7,20000,https://www.ubereats.com/store/randalls-2727-exposition-blvd/P1drBZjWWFSdJTUIAlWtFQ,2026-04-21T23:51:07.519053
+Walgreens,1920 E. Riverside Dr,4.7,20000,https://www.ubereats.com/store/walgreens-1920-e-riverside-dr/Qbwf9drDSPeKPJ2JoeXoAA,2026-04-21T23:51:23.567859
+Sprouts,"1201 Barbara Jordan Blvd., Bldg 7",4.7,20000,https://www.ubereats.com/store/sprouts-farmers-market-1201-barbara-jordan-blvd-bldg-7-austin-tx-78723-3083/MWOdv1M1X9u1yBCPzlBe0w,2026-04-21T23:51:39.731268
+Dollar General,1401 S. Pleasant Valley Rd.,4.7,20000,https://www.ubereats.com/store/dollar-general-1401-s-pleasant-valley-rd/Gr8ogYCQUfK4jdiGg1McJg,2026-04-21T23:51:53.419267
+Gopuff,600 Industrial Blvd. - Building D,4.7,20000,https://www.ubereats.com/store/gopuff-convenience-alcohol-%26-more/M5UoqSBsU3uxBdR1jIWElw,2026-04-21T23:52:05.627739
+Mai Thai Restaurant,207 San Jacinto Blvd #201,4.7,8000,https://www.ubereats.com/store/mai-thai-restaurant-san-jacinto/WUQB-IQdTEyd0hA-N_CGoA,2026-04-21T23:52:17.255281
+Maiko Sushi Lounge,207 San Jacinto Boulevard,4.7,4000,https://www.ubereats.com/store/maiko-sushi-lounge/oMUNP-lPQTuiQzkS-ZFvEw,2026-04-21T23:52:29.579403
+1618 Asian Fusion,1618 East Riverside Drive,4.7,4000,https://www.ubereats.com/store/1618-asian-fusion/QSb2r3FLSBO5y9feU2SVrQ,2026-04-21T23:52:43.732392
+Family Dollar,4701 E Martin Luther King Jr B,4.7,100,https://www.ubereats.com/store/family-dollar-4701-e-martin-luther-king-jr-b/_pLX4KCtW_SazZobd-IlNQ,2026-04-21T23:53:02.382444
+La Michoacana,2237B East Riverside Dr.,4.9,160,https://www.ubereats.com/store/la-michoacana-2237b-east-riverside-dr/hOMpMBv3WhK2C3q4uAP2dg,2026-04-21T23:53:14.961570
+99 Ranch Market,6929 Airport Blvd,4.6,320,https://www.ubereats.com/store/99-ranch-market-austin/wf5jl_3mW3KPwBzQMwWPAQ,2026-04-21T23:53:29.385713
+ALDI,1415 Fm 685 Rd,4.8,700,https://www.ubereats.com/store/aldi-1415-fm-685-rd/QGR4BKlhUNqYdy2v5LAvZw,2026-04-21T23:53:50.814762
+Randalls Beer & Wine,2727 Exposition Blvd,4.9,170,https://www.ubereats.com/store/randalls-beer-%26-wine-2727-exposition-blvd/_FmicIqrV2CGaU2voqAStQ,2026-04-21T23:54:10.607978
+Steve's Liquor & Fine Wines,2425 Exposition Blvd 'B',4.7,100,https://www.ubereats.com/store/steves-liquor-%26-fine-wines/rUEw_seMUe-CwVPCV-iq2Q,2026-04-21T23:54:25.448449
+A & B Liquors,2234 E Ben White Blvd,4.9,500,https://www.ubereats.com/store/a-%26-b-liquors/IJX74gQ6Uu6hSe-AWJUSYA,2026-04-21T23:54:43.709914
+Gopuff,600 Industrial Blvd. - Building D,4,700,https://www.ubereats.com/store/gopuff-alcohol-%26-more/cFc_qHs2VGK5a3GQ8d8IjA,2026-04-21T23:54:59.076661
+Everest Liquor,1131 East 11th Street,4.8,170,https://www.ubereats.com/store/everest-liquor/p5LhiMkMVDyO7SK86Xz2IQ,2026-04-21T23:55:20.252163
+South Lamar Wine & Spirits,2418 S Lamar Blvd.,4.9,160,https://www.ubereats.com/store/south-lamar-wine-%26-spirits/D5URb2gcUravy0XbxrfB5Q,2026-04-21T23:55:33.860482
+East 1st Grocery,1811 E Cesar Chavez St,4.8,1000,https://www.ubereats.com/store/east-1st-grocery/dbrcZ4UyQM-Xm2BtboZw7Q,2026-04-21T23:55:46.818668
+Graboost Convenience,4611 E Martin Luther King Jr Blvd,4.8,110,https://www.ubereats.com/store/graboost-convenience-austin/Ui86vjbLUEaY03AVJ8gPsA,2026-04-21T23:55:57.656705
+E-Z Food Stop,2700 East 7th Street,4.8,800,https://www.ubereats.com/store/e-z-food-stop/I3sJ9BoAWZy9DnROJa-XAQ,2026-04-21T23:56:11.232793
+The Home Depot,3600 Interstate Hwy 35 S,4.8,120,https://www.ubereats.com/store/the-home-depot-3600-interstate-hwy-35-s/MvzccSFPV2mRGsRySZ7IXA,2026-04-21T23:56:23.928147
+PetSmart,1201 Barbara Jordan Blvd,4.8,410,https://www.ubereats.com/store/petsmart-austin-mueller/6Ap_y2AxVISkWXkTqD2wOg,2026-04-21T23:56:39.877053
+Lowe's,5510 S Ih 35,4.9,100,https://www.ubereats.com/store/lowes-5510-s-ih-35/_k7vVJs4VCWmVwZ97wqqAw,2026-04-21T23:56:53.090094
+Hawaiian Bros,5610 N IH-35 Svc Rd SB,4.6,20000,https://www.ubereats.com/store/hawaiian-bros-north-austin/3Ha4V7_xRbyomqJzkcOOUw,2026-04-21T23:57:07.141909
+Catfish Parlour,4705 E Ben White Blvd,4.4,1000,https://www.ubereats.com/store/catfish-parlour-austin/Rx2EqEAqWfySeOygdt2pAw,2026-04-21T23:57:20.713806
+China Family,1914 Guadalupe St,4.7,4000,https://www.ubereats.com/store/china-family-guadalupe-st/sLGtChScSbGB0T5sScaAQQ,2026-04-21T23:57:32.954104
+Fresh Gyro Halal,548 Nueces Street,4.7,3000,https://www.ubereats.com/store/fresh-gyro-halal-548-nueces-st/aF59EoZkSRuEn3bB6O_Viw,2026-04-21T23:57:46.113388
+Chuy's,1728 Barton Springs Rd,4.6,2000,https://www.ubereats.com/store/chuys-1728-barton-springs-road/qvfCno8rVVa6W1k2bG9NYQ,2026-04-21T23:57:57.819633
+Desano Pizza Napoletana,301 Lavaca Street,4.7,7000,https://www.ubereats.com/store/desano-pizza-napoletana-downtown-austin/MeWTSR__SkG3XzRVBiNigQ,2026-04-21T23:58:13.401706
+SouthCloud Ramen,1914 Guadalupe St,4.5,1000,https://www.ubereats.com/store/southcloud-ramen-1914-noodles-%26-more/phHvNYlQSI2CTpZFazOFAQ,2026-04-21T23:58:27.060119
+Madam Mam's,510 W 26th St,4.7,9000,https://www.ubereats.com/store/madam-mams-26th-st/AmbIL0UERS-epQQ4uNXJYQ,2026-04-21T23:58:41.130320
+Clay Pit,1601 Guadalupe St,4.7,6000,https://www.ubereats.com/store/clay-pit-guadalupe-st/bQ7SLDq5RYmMNyRk-hyp9A,2026-04-21T23:58:54.044449
+Barchi Sushi,206 Colorado Street,4.8,230,https://www.ubereats.com/store/barchi-sushi/OlhM9DQmS_OV5KnwTF_bvw,2026-04-21T23:59:05.524281
+Fresa's,915 North Lamar Boulevard,4.8,3000,https://www.ubereats.com/store/fresas-9th-%26-lamar/DGnwLcsdXfqoq1liIythpw,2026-04-21T23:59:21.965091
+MezzeMe Turkish Kitchen,4700 West Guadalupe Street,4.7,2000,https://www.ubereats.com/store/mezzeme-turkish-kitchen-guadalupe-st/sTBqA9gbQJGBfLuLQwvLSg,2026-04-21T23:59:36.633213
+La Volta Pizza Club,900 West 10th Street,4.5,800,https://www.ubereats.com/store/la-volta-pizza-club-austin/hYrxv3yYWK2A8FDDt7PZhw,2026-04-21T23:59:49.353984
+Tacodeli,301 Congress Avenue,4.8,3000,https://www.ubereats.com/store/tacodeli-congress/2p5YgBmTSpOZJkqX3t8I3g,2026-04-22T00:00:01.947113
+Shoal Creek Saloon,909 N Lamar Blvd,4.5,1000,https://www.ubereats.com/store/shoal-creek-saloon/zsFGWqMuSOqCXBw0k393Iw,2026-04-22T00:00:13.663802
+Torchy's Tacos,110 San Antonio St #120,4.7,20000,https://www.ubereats.com/store/torchys-tacos-64-northshore/qj4Gu_z5VMiPinvJH993dA,2026-04-22T00:00:25.780038
+Mason's Famous Lobster Rolls,200 Congress Avenue,4.7,20000,https://www.ubereats.com/store/masons-famous-lobster-rolls/7Btmjcv-XSGcXVnLZtn8QQ,2026-04-22T00:00:38.566666
+Hopdoddy Burger Bar,1011 E. 5th Street Ste 180,4.7,20000,https://www.ubereats.com/store/hopdoddy-burger-bar-plaza-saltillo/Oa6-pG28QJahpOWg4U56Gg,2026-04-22T00:00:51.407032
+Aba by Lettuce Entertain You,1011 S Congress Ave,4.7,20000,https://www.ubereats.com/store/aba-by-lettuce-entertain-you-austin/MrXA9N2tTdyL875EHtDXew,2026-04-22T00:01:05.248262
+Modern Market Eatery,401 Congress Ave,4.7,20000,https://www.ubereats.com/store/modern-market-eatery-frost-tower/jkAV7X4ESIOply0OxWzZSw,2026-04-22T00:01:18.509091
+Jet's Pizza,827 W 12th Street,4.7,20000,https://www.ubereats.com/store/jets-pizza-827-w-12th-street/dh1S1jFyV5mUxiOFGG71Xw,2026-04-22T00:01:30.410537
+Velvet Taco,522 Congress Avenue #100,4.7,20000,https://www.ubereats.com/store/velvet-taco-6th-%26-congress/w0410BW1SduAhQQCneLJgg,2026-04-22T00:01:42.710829
+Dish Society,1600 South 1st Street,4.7,20000,https://www.ubereats.com/store/dish-society-south-first/zASEssP3U7SyUpeztAl4PQ,2026-04-22T00:01:56.436806
+Stiles Switch BBQ & Brew,6610 N Lamar Blvd,4.7,20000,https://www.ubereats.com/store/stiles-switch-bbq-%26-brew-lamar/DEUJF92CXXugsHLCVF7smw,2026-04-22T00:02:08.926728
+Pluckers Wing Bar,2222 Rio Grande St,4.7,20000,https://www.ubereats.com/store/pluckers-wing-bar-rio-grande-st/lC7jYcO9TlGez4kBOTavEA,2026-04-22T00:02:21.897296
+Sushi Roku,405 Colorado Street,4.7,20000,https://www.ubereats.com/store/sushi-roku-austin/HlMKjrhfW_WATE43lNiB3A,2026-04-22T00:02:33.385596
+Numero 28,452 W 2nd St,4.7,20000,https://www.ubereats.com/store/numero-28-austin/fbvHgvuVQCu-yTFrgh5DpQ,2026-04-22T00:02:45.134290
+Super Bowl Restaurant,719 West William Cannon Drive,4.7,20000,https://www.ubereats.com/store/super-bowl-restaurant/0ZpntUVoVNmgrwBs7oa5KQ,2026-04-22T00:03:00.678372
+Snarf's Sandwiches,1404 S 1st St,4.7,20000,https://www.ubereats.com/store/snarfs-sandwiches-south-1st/MpzTo0vsTny6AINqa8otOA,2026-04-22T00:03:13.152239
+Terry Black's Barbecue,1003 Barton Springs Rd,4.7,20000,https://www.ubereats.com/store/terry-blacks-barbecue-austin/I3Ay2HDYVcqwqm1uqWGBlQ,2026-04-22T00:03:30.220181
+Honest Mary's,4800 Burnet Rd C300,4.7,20000,https://www.ubereats.com/store/honest-marys-rosedale/yJ7O4_vlX2OzT728G_sEBw,2026-04-22T00:03:42.644774
+Lucy's Fried Chicken,2218 College Ave,4.7,20000,https://www.ubereats.com/store/lucys-fried-chicken/ztuad__6QtaKOmiPiweG_g,2026-04-22T00:03:55.758963
+Loro Asian Smokehouse,2115 South Lamar Boulevard,4.7,20000,https://www.ubereats.com/store/loro-asian-smokehouse-austin/39YItSqFR9eikAT07nwpEg,2026-04-22T00:04:09.125707
+Black's BBQ,3110 Guadalupe St,4.7,20000,https://www.ubereats.com/store/blacks-bbq-austin/sDmGj1i7WimaU9j3ntLFVw,2026-04-22T00:04:20.785061
+Tumble22,2304 Lake Austin Blvd,4.7,20000,https://www.ubereats.com/store/tumble22-lake-austin-blvd/2mo_GRKHW6Oa9VHUSCvnKA,2026-04-22T00:04:34.567987
+Rudy's Country Store & Bar-B-Q,3914 North Lamar Boulevard,4.7,20000,https://www.ubereats.com/store/rudys-country-store-%26-bar-b-q-austin-n-lamar/LDKIVjDqXLW9g8WmebbEOg,2026-04-22T00:04:48.641050
+Austin Rotisserie & Sandwicherie,"111 Congress Avenue, P400",4.7,20000,https://www.ubereats.com/store/austin-rotisserie-%26-sandwicherie-congress/ehvFDr1bSkqSt_wnJ6XIdw,2026-04-22T00:05:04.247102
+Postino,1301 South Lamar Boulevard,4.7,20000,https://www.ubereats.com/store/postino-south-lamar/cdc7HprTXquf0Mr11hb8SA,2026-04-22T00:05:17.272673
+Taverna,258 W 2nd St,4.7,20000,https://www.ubereats.com/store/taverna-downtown/zustZh79QyavUzkAk88Xwg,2026-04-22T00:05:29.245425
+Green Mesquite BBQ,1400 Barton Springs Rd,4.7,20000,https://www.ubereats.com/store/green-mesquite-bbq-barton-springs/PT7lZFWWTwa_yjTAqpRGig,2026-04-22T00:05:43.113510
+24 Diner,600 N Lamar Blvd,4.7,20000,https://www.ubereats.com/store/24-diner/qVNfsNaBTI6362IyIFR64A,2026-04-22T00:06:00.279601
+Revolución,"207 San Jacinto Boulevard, #200",4.7,20000,https://www.ubereats.com/store/revolucion-austin/QJqZxiWGSjeDAAfK4ZXmRA,2026-04-22T00:06:13.893999
+Austin's Habibi,817 W 5th St,4.7,20000,https://www.ubereats.com/store/austins-habibi-5th-st/8IpGgBg_Shalrib4WqdsIw,2026-04-22T00:06:26.862794
+Halal Bros,2712 Guadalupe St,4.7,20000,https://www.ubereats.com/store/halal-bros-guadalupe-st/RM4EmvKmSIuRxm1g8SbgAQ,2026-04-22T00:06:39.330260
+XENiA: Mediterranean Kitchen,5610 N Interstate Hwy 35,4.7,20000,https://www.ubereats.com/store/xenia%3A-mediterranean-kitchen-frontage/OaH3a1KcVXe1LxDZhjo_Jw,2026-04-22T00:06:51.696226
+Ramen Tatsu-ya,1600 E 6th St,4.7,20000,https://www.ubereats.com/store/ramen-tatsu-ya-6th/gq7KtpjzWY62yRhbZtcCqw,2026-04-22T00:07:05.313414
+NADC Burger,1007 E 6th St,4.7,20000,https://www.ubereats.com/store/nadc-burger-austin-1007-e-6th-st/fDXmyO8lWfWrlqqHoedpGA,2026-04-22T00:07:17.528762
+Bamboo Bistro,6818 West Gate Boulevard,4.7,20000,https://www.ubereats.com/store/bamboo-bistro-west-gate/JvMILkdnRza6wYa3g0K5tQ,2026-04-22T00:07:30.229944
+Mendocino Farms,1106 West 38th Street,4.7,20000,https://www.ubereats.com/store/mendocino-farms-west-38th/-_Hs-LkdXhSx4ONAq2Cl8Q,2026-04-22T00:07:43.915057
+Serranos,5030 W Hwy 290 Service Rd,4.7,20000,https://www.ubereats.com/store/serranos-mopac/kxq0CwtNT0-_zMwKrke6jw,2026-04-22T00:07:59.056958
+LA Crawfish,500 East Ben White Boulevard Suite 200,4.7,20000,https://www.ubereats.com/store/la-crawfish-500-e-ben-white-blvd/0Msfh7o0VOm8zloJwvYf1Q,2026-04-22T00:08:12.629379
+Chinatown,2712 Bee Cave Rd,4.7,20000,https://www.ubereats.com/store/chinatown-westlake/QV6ehmY0RWGo-NNDAO82TA,2026-04-22T00:08:28.391004
+Burger Bar on Congress,110 East 2nd Street,4.7,20000,https://www.ubereats.com/store/burger-bar-on-congress/_H0-v0j_V5utCBiY-Z0DDQ,2026-04-22T00:08:41.944963
+CoCo's Cafe,1910 Guadalupe Street,4.7,20000,https://www.ubereats.com/store/cocos-cafe-central/AO7RQ5mGQd2kOXkk7Gc89g,2026-04-22T00:08:56.037488
+ThunderCloud Subs,903 W 12th St,4.7,20000,https://www.ubereats.com/store/thundercloud-subs-12th-street/aifTk-hIUv2ZKsN2or5x1A,2026-04-22T00:09:08.792520
+East Side Pies,1401 Rosewood Ave,4.7,20000,https://www.ubereats.com/store/east-side-pies-rosewood/1Oqe0EsjVqKNkTuePF42fQ,2026-04-22T00:09:22.123001
+Sichuan River,4534 W Gate Blvd Ste 105,4.7,20000,https://www.ubereats.com/store/sichuan-river-w-gate-blvd/y7wOAc7uTEGCSGdAQKusIA,2026-04-22T00:09:36.445123
+Muse Fusion+Sushi,"4211 South Lamar Boulevard, Suite A-3",4.7,20000,https://www.ubereats.com/store/muse-fusion%2Bsushi/SX_Dwy9GXryQnvJc8js0Xw,2026-04-22T00:09:52.078940
+Donkey Mo's Korean Fried Chicken,"5312 Airport Boulevard, Ste D",4.7,20000,https://www.ubereats.com/store/donkey-mos-korean-fried-chicken-5312-airport-blvd-austin/CvSeEEd_VMy_JJDJbiBE9w,2026-04-22T00:10:06.299839
+888 Pan Asian Restaurant,"2400 East Oltorf Street, Suite 1A",4.7,20000,https://www.ubereats.com/store/888-pan-asian-restaurant/LLkOWeqHXx6ZLDA0fJCK9Q,2026-04-22T00:10:17.455164
+Texas Land & Cattle,5510 South Interstate 35,4.7,20000,https://www.ubereats.com/store/texas-land-%26-cattle-austin/LhXeAVKHRL-oMGiQf6aWZQ,2026-04-22T00:10:34.019109
+Phoebe's Diner,408 West 11th Street,4.7,20000,https://www.ubereats.com/store/phoebes-diner-downtown/fkmMKLqvTSK7pNLFUKIlwg,2026-04-22T00:10:47.014456
+L&L Hawaiian Barbecue,Address not found,4.7,20000,https://www.ubereats.com/store/l%26l-hawaiian-barbecue-austin-south/n4nruBFUXdOFFO8IQCEYQw,2026-04-22T00:10:59.748213
+True Texas BBQ,2400 South Congress Avenue,4.7,20000,https://www.ubereats.com/store/true-texas-bbq-austin-8/eEZ-bjB9VwGZFJ_yjV9X9Q,2026-04-22T00:11:12.946164
+Taqueria Dona Juanita,1512 E 6th St,4.7,20000,https://www.ubereats.com/store/taqueria-dona-juanita/IYd6e8seRFa3KSdEbGyHtA,2026-04-22T00:11:25.371343
+Aviator Pizza & Drafthouse,1905 Aldrich Street,4.7,20000,https://www.ubereats.com/store/aviator-pizza-%26-drafthouse-mueller/y1pM0HvAXa2lLK_l87z7HA,2026-04-22T00:11:40.173494
+Sunlife Organics,1011 S Congress Ave,4.7,20000,https://www.ubereats.com/store/sunlife-organics-austin/kqm1nhZrTAaWXgX30OrgDQ,2026-04-22T00:11:55.266293
+MAD Greens,5601 Brodie Lane,4.7,20000,https://www.ubereats.com/store/mad-greens-290-%26-brodie-lane/_I0x39C_ReSBs96Va2X59w,2026-04-22T00:12:13.642014
+Saffron Austin,3616 Far W Blvd Ste 113,4.7,20000,https://www.ubereats.com/store/saffron-austin-far-w-blvd/rWrMw2CLTayBc5bYsbf2GQ,2026-04-22T00:12:47.363685
+Teji's Indian Restaurant,3400 Comsouth Dr,4.7,20000,https://www.ubereats.com/store/tejis-indian-restaurant-comsouth-dr/sZBrEOCGVpOaO-ye1f8cmA,2026-04-22T00:13:02.456448
+Picnik,4801 Burnet Road,4.7,20000,https://www.ubereats.com/store/picnik-burnet-rd/EfHXQ-BQQYeyJ-cW-xPG3w,2026-04-22T00:13:15.679090
+K-Bop,2002 Guadalupe St,4.7,20000,https://www.ubereats.com/store/k-bop/Qk2DSR5uTUypFHRFniUT3g,2026-04-22T00:13:29.572112
+El Pollo Rico,1945 E Oltorf St,4.7,20000,https://www.ubereats.com/store/el-pollo-rico-oltorf/VL_pJie-UFOHXGamTH8wJg,2026-04-22T00:13:42.670453
+Dumpling World,4616 Triangle Ave Suite 203,4.7,20000,https://www.ubereats.com/store/dumpling-world-austin/l8hmBMyiXhGmDmb-wRQdNA,2026-04-22T00:13:57.363608
+Uncle Nicky's,2121 South Lamar Boulevard,4.7,20000,https://www.ubereats.com/store/uncle-nickys-south-lamar/rBOy_gCZXAKX9ahMSpGSAQ,2026-04-22T00:14:11.604210
+Sukjai Thaifood,601 West Live Oak Street,4.7,20000,https://www.ubereats.com/store/sukjai-thaifood/TSIBcaQ_TCCM8y_lxeON1g,2026-04-22T00:14:25.398936
+Oye Taquito,1710 East Cesar Chavez Street,4.7,20000,https://www.ubereats.com/store/oye-taquito/wrPVtSCxSbasTIz6ulH9ag,2026-04-22T00:14:39.338872
+Salsa Limón: Lupita,3001 Guadalupe Street,4.7,20000,https://www.ubereats.com/store/salsa-limon%3A-lupita/yFNs9DR3Vv24p5owMuVGrg,2026-04-22T00:14:53.458292
+Zalat Pizza,2222 Rio Grande Street,4.7,20000,https://www.ubereats.com/store/zalat-pizza-west-campus/dKUB1dKcUxGu2eooQLz2Qg,2026-04-22T00:15:06.618706
+Pollo Regio,1150 Airport Boulevard,4.7,20000,https://www.ubereats.com/store/pollo-regio-airport-blvd/eAVlJjbyUd6WdXr-evgR0A,2026-04-22T00:15:19.043957
+Bee Dumpling,"1901 West William Cannon Drive, 115",4.7,20000,https://www.ubereats.com/store/bee-dumpling-w-william-cannon-dr/H558d9b6UTiVG9BA1sv8-w,2026-04-22T00:15:33.616383
+An Nyeong K Tofu & BBQ,5011 Burnet Road,4.7,20000,https://www.ubereats.com/store/an-nyeong-k-tofu-%26-bbq-burnet-rd/WdfHoKHfWsalxVtLyCGHgA,2026-04-22T00:15:45.656052
+Me Con Bistro,3421 W William Cannon Dr.,4.7,20000,https://www.ubereats.com/store/me-con-bistro/xF28XQOjR8qkherEy7tRLA,2026-04-22T00:15:59.521673
+Voodoo Doughnut,212 E 6th St,4.7,20000,https://www.ubereats.com/store/voodoo-doughnut-6th-st-austin/PQng3eKgTHq5lOg61PG7Iw,2026-04-22T00:16:15.176483
+Dimassi’s Mediterranean Kitchen,701 E Stassney Ln,4.7,20000,https://www.ubereats.com/store/dimassis-mediterranean-kitchen-south-austin/WKQ2AIsfRWGeTkv5yDJSUg,2026-04-22T00:16:27.781327
+Mad Burgers,2716 Guadalupe Street,4.7,20000,https://www.ubereats.com/store/mad-burgers-austin/rY5xEG8bWfmbfXJCxzaezQ,2026-04-22T00:16:45.842430
+Polvos Mexican,"360 Nueces Street, Suite 10",4.7,20000,https://www.ubereats.com/store/polvos-mexican-downtown/pvjR9MTSX4CtfbUIjoDZUA,2026-04-22T00:16:57.148396
+Luv Thai,5207 Brodie Ln,4.7,20000,https://www.ubereats.com/store/luv-thai/l9EGTbgHQzGBDXUoZqmKHA,2026-04-22T00:17:08.241307
+Juan In A Million Restaurant,2300 East Cesar Chavez Street,4.7,20000,https://www.ubereats.com/store/juan-in-a-million-restaurant-cesar-chavez/EkW8I9EXQH6j_3xWKAD2Pg,2026-04-22T00:17:20.653381
+Moonshine Patio Bar & Grill,303 Red River St,4.7,20000,https://www.ubereats.com/store/moonshine-patio-bar-%26-grill-red-river/BUTdJqU8Vn2gqeStetS9WA,2026-04-22T00:17:34.226618
+PD Thai Cuisine,3208 Guadalupe St,4.7,20000,https://www.ubereats.com/store/pd-thai-cuisine/VMSxiOOzRCeiLSi6zhLamw,2026-04-22T00:17:48.104955
+Roaring Fork,701 Congress Avenue,4.7,20000,https://www.ubereats.com/store/roaring-fork-downtown-austin/kndLBmwjVxSgh8ajoP5LDA,2026-04-22T00:18:03.103651
+Shawarma King,3211 Red River Street,4.7,20000,https://www.ubereats.com/store/shawarma-king-3211-red-river-street/lEhQMplQURaMK_nfhRaEpQ,2026-04-22T00:18:17.488205
+Hunan Lion Restaurant,4006 S Lamar Blvd,4.7,20000,https://www.ubereats.com/store/hunan-lion-restaurant/iwnS2FTISA2fgfKVEdhwZw,2026-04-22T00:18:30.029980
+Pita Plus +,6719 N Lamar Blvd,4.7,20000,https://www.ubereats.com/store/pita-plus-%2B/FoYGaJ3vWNS86k66Jn01xA,2026-04-22T00:18:42.596105
+China Hill Chinese restaurant,2800 W William Cannon,4.7,20000,https://www.ubereats.com/store/china-hill-chinese-restaurant/mELpnAjFW12ZtDX_gUVAeg,2026-04-22T00:18:55.171938
+Kerbey Lane Cafe,2606 Guadalupe,4.7,20000,https://www.ubereats.com/store/kerbey-lane-cafe-university/I3deT_FHQR-pPt9UUe192w,2026-04-22T00:19:10.804071
+Mian & Bao,4700 W Guadalupe St Ste A5,4.7,20000,https://www.ubereats.com/store/mian-%26-bao-austin/hE9wicOxWpyMYy7zvrfAvA,2026-04-22T00:19:24.276525
+Via 313 Pizza,1802 E 6th St,4.7,20000,https://www.ubereats.com/store/via-313-pizza-east-6th/bT1po_IiVkWTYHjO2rrjSw,2026-04-22T00:19:39.187276
+Taco Flats,1110 W Lynn St,4.7,20000,https://www.ubereats.com/store/taco-flats-clarksville/FqFXUXHvQPKrgF4gRyziHQ,2026-04-22T00:19:54.460359
+Real Thai Food Truck,1108 East 12th Street,4.7,20000,https://www.ubereats.com/store/real-thai-food-truck/EWTothuFRU2FXgbtAPP06w,2026-04-22T00:20:07.953907
+Chicken Salad Chick,"1000 East 41st Street, 200",4.7,20000,https://www.ubereats.com/store/chicken-salad-chick-1000-e-41st-street/Z_Oy9xDGXWG5OoyXTmwgZg,2026-04-22T00:20:20.771054
+Nothing Bundt Cakes,"2785 Bee Caves Road, suite 333",4.7,20000,https://www.ubereats.com/store/nothing-bundt-cakes-austin-westlake/Bdj2PP05VfWJhIwGzvEOow,2026-04-22T00:20:33.770375
+Julio's Cafe,4230 Duval Street,4.7,20000,https://www.ubereats.com/store/julios-cafe-voted-cherrywoods-1-tex-mex/cpVnm-L-UXKt10kVohY1nw,2026-04-22T00:20:51.631787
+Slo Roast,5207 Brodie Lane #300,4.7,20000,https://www.ubereats.com/store/slo-roast-sunset-valley/2NVuNyddUVKnnf24ptCbCw,2026-04-22T00:21:05.454660
+BJ's Restaurant & Brewhouse,5207 Brodie Lane #300,4.7,20000,https://www.ubereats.com/store/bjs-restaurant-%26-brewhouse-sunset-valley-471/DDEp62IYSEWQp-KcKouwsg,2026-04-22T00:21:21.356803
+Nasha,1614 East 7th Street,4.7,20000,https://www.ubereats.com/store/nasha-7th-street/gti4N4faXXa9cpcxV5BAWw,2026-04-22T00:21:37.213308
+Wow Poke,2337 E Cesar Chavez St,4.7,20000,https://www.ubereats.com/store/wow-poke-e-cesar-chavez/oeLzpzIMWYGJQxu86QpeBA,2026-04-22T00:21:50.445428
+Sapori Italian Roots,800 Brazos Street,4.7,20000,https://www.ubereats.com/store/sapori-italian-roots/kGYH0wTiU4ukphXZBqwEjg,2026-04-22T00:22:03.866975
+Taco More,2015 E Riverside Dr Ste 1A,4.7,20000,https://www.ubereats.com/store/taco-more-riverside/wfGSM_wCWGCSOwIK_unyZg,2026-04-22T00:22:20.662014
+Applebee's,6315 S Interstate Highway 35,4.7,20000,https://www.ubereats.com/store/applebees-william-cannon/hBHka0CLTVmkULBkETq6cQ,2026-04-22T00:22:36.447491
+Lee Gimbap,5610 N Interstate Hwy 35,4.7,20000,https://www.ubereats.com/store/lee-gimbap-5610-n-interstate-hwy-35/Yyd1DgqRVryCqUb1d6jSlg,2026-04-22T00:22:51.413004
+Abu Omar Halal,2825 Guadalupe Street,4.7,20000,https://www.ubereats.com/store/abu-omar-halal-austin-tx/XRD3mypZQV6yMaBp3atTbA,2026-04-22T00:23:18.241772
+El Alma,4521 West Gate Boulevard,4.7,20000,https://www.ubereats.com/store/el-alma-south/lDnW8WnJWJWsmoySDqc10A,2026-04-22T00:24:10.349671
+Pav Bhaji Express,30 North Interstate 35,4.7,20000,https://www.ubereats.com/store/pav-bhaji-express/Pj-EDm55VjCU2kFw8CWmeQ,2026-04-22T00:24:29.821565
+TX Shawarma,601 W Live Oak St,4.7,20000,https://www.ubereats.com/store/tx-shawarma/XBXDwhZtRbenJbUw5q8s1Q,2026-04-22T00:24:53.429001
+Asiana Indian Cuisine,801 E William Cannon Dr,4.7,20000,https://www.ubereats.com/store/asiana-indian-cuisine-william-cannon/2FYV_oXLRRWTDAj4tLX5ZA,2026-04-22T00:25:08.943605
+Kuway's Banh Mi,1309 W 45th St,4.7,20000,https://www.ubereats.com/store/kuways-banh-mi/t72AI92lSDWCmDmaz3-u1w,2026-04-22T00:25:32.019290
+Khon Thai Kitchen by Seeda,5800 Burnet Road,4.7,20000,https://www.ubereats.com/store/khon-thai-kitchen-by-seeda-burnet-rd/-VGCyOr4WR2Q2gF-zYZlzw,2026-04-22T00:25:59.163854
+Donn's BBQ,2617 S IH 35 Frontage Rd,4.7,20000,https://www.ubereats.com/store/donns-bbq-frontage-rd/9W_fiIr_Q2-D_-bXucP47g,2026-04-22T00:26:11.849179
+Mission Burger Co.,3600 South Lamar Boulevard,4.7,20000,https://www.ubereats.com/store/mission-burger-co-%40-barley-bean/WB1ea4CAWQSTcUHK9cwaMg,2026-04-22T00:26:25.678291
+The Vegan Nom,2324 East Cesar Chavez Street,4.7,20000,https://www.ubereats.com/store/the-vegan-nom-cesar-chavez-st/jKH9wBGSU6Kk1dFjB9jBSQ,2026-04-22T00:26:37.548260
+Dragon Fire,5701 S Congress Ave,4.7,20000,https://www.ubereats.com/store/dragon-fire/zp_D6-EIXFerfKLSYPcOqg,2026-04-22T00:26:51.288300
+Nervous Charlie's,5501 N Lamar Blvd,4.7,20000,https://www.ubereats.com/store/nervous-charlies-lamar/i5DXYRNBRYu7EaPE5JQgdQ,2026-04-22T00:27:03.977506
+Tancho Sushi,2621 Perseverance Drive,4.7,20000,https://www.ubereats.com/store/tancho-sushi-perseverance-drive/tywHZarSVUuU-XTd2i0QzQ,2026-04-22T00:27:15.925625
+F#ck Gluten,5610 North Interstate 35,4.7,20000,https://www.ubereats.com/store/fck-gluten-frontage/ebOjTG0gTwyPii6ny2r1Nw,2026-04-22T00:27:28.072796
+Pho Thaison,3601 W. William Cannon Dr. #250,4.7,20000,https://www.ubereats.com/store/pho-thaison-william-cannon/oHRyGcaESzOFcBnWdWt3vA,2026-04-22T00:27:41.139916
+Industry,"1211 East 5th Street, Suite 150",4.7,20000,https://www.ubereats.com/store/industry-5th-street/bMC8s3O1UPCVbLOysJfNhA,2026-04-22T00:27:54.259995
+Mariana's Kitchen,5510 S IH 35 Frontage Rd,4.7,20000,https://www.ubereats.com/store/marianas-kitchen/uRZVFT9uQVG5CwGV0ncbsQ,2026-04-22T00:28:06.217635
+Taco Cabana,2507 E Riverside Dr,4.7,20000,https://www.ubereats.com/store/taco-cabana-2507-e-riverside-dr/k8fpD5EFQQeNXpNjTHGMpg,2026-04-22T00:28:18.384941
+Sarku Japan,2901 Capital of Texas Hwy. Sp. #VC-03,4.7,20000,https://www.ubereats.com/store/sarku-japan-barton-creek/EXyKeMAFQHmrkjxrt1xjDQ,2026-04-22T00:28:31.702820
+Tuk Tuk Thai Cafe,5517 Manchaca Rd,4.7,20000,https://www.ubereats.com/store/tuk-tuk-thai-cafe/abJatf5dRxumpKkDiLXqhw,2026-04-22T00:28:46.706204
+Trippy Tacos,1222 South Lamar Boulevard,4.7,20000,https://www.ubereats.com/store/trippy-tacos/hVFNE_3CTOO_KUYtvg8PdA,2026-04-22T00:28:57.538207
+Tikka House Indian Eatery,2026 South Lamar Boulevard,4.7,20000,https://www.ubereats.com/store/tikka-house-indian-eatery-south-lamar/B1nBfkCRTU2J9P2b8pMy1Q,2026-04-22T00:29:09.347691
+Polvos,2004 S 1st St,4.7,20000,https://www.ubereats.com/store/polvos-south-1st/6aBZTd3xWJGNWHEwiew28w,2026-04-22T00:29:24.441313
+Southside Market & Barbeque,10515 N Mopac Expy,4.7,20000,https://www.ubereats.com/store/southside-market-%26-barbeque-austin/nRC84Ax_VRagh4IVZwBpSA,2026-04-22T00:29:36.829242
+Tarka Indian Kitchen,5207 Brodie Ln,4.7,20000,https://www.ubereats.com/store/tarka-indian-kitchen-sunset-valley/iyQ6oXEZQ1u40YPKa8mE8Q,2026-04-22T00:29:49.896192
+Kitchen234,510 Anderson Ln E,4.7,20000,https://www.ubereats.com/store/kitchen234-1-african-food/cii7gngRXCGIdGiaDWxz-A,2026-04-22T00:30:01.972226
+Poke Austin,5601 Brodie Lane,4.7,20000,https://www.ubereats.com/store/poke-austin/T7qnrar5SmKnv5e3F60RCg,2026-04-22T00:30:14.261522
+Nala’s Indian Restaurant,4894 US-290 W,4.7,20000,https://www.ubereats.com/store/nalas-indian-restaurant-4894-us-290-w/Mu9OhQ4OSYSkmjUHRuei1g,2026-04-22T00:30:29.931144
+Tejas Liquor,111W WILLIAM CANNON DRIVE,4.7,20000,https://www.ubereats.com/store/tejas-liquor/2sabrSf5TNqsL4TVCPWtnw,2026-04-22T00:30:44.649591
+Playa Bowls,500 W Martin Luther King Jr Boulevard Ste B,4.7,20000,https://www.ubereats.com/store/playa-bowls-500-w-martin-luther-king-jr-boulevard/w5a36jYmWtO02gl5_y7mIg,2026-04-22T00:30:57.445845
+Taqueria Chapala,2101 E Cesar Chavez St,4.7,20000,https://www.ubereats.com/store/taqueria-chapala-e-cesar-chavez-st/S0Ec3KayTZyjcT9aezORGA,2026-04-22T00:31:08.797382
+Michi Ramen & More,6330 W US-290,4.7,20000,https://www.ubereats.com/store/michi-ramen-%26-more-oak-hill/z7hPxM0_RSyDb-xj4AuuAw,2026-04-22T00:31:20.986582
+Umi Sushi Bar & Grill,5510 Interstate 35 #400,4.7,20000,https://www.ubereats.com/store/umi-sushi-bar-%26-grill-austin/LfgWHuNqVTqwBXMXzLEYZA,2026-04-22T00:31:32.829900
+Sabor Venezolano,4111 South First Street Bridge,4.7,20000,https://www.ubereats.com/store/sabor-venezolano-austin/vZ9TcY5rVPSDl5LH7P2I0Q,2026-04-22T00:31:46.737342
+Star of India,2900 W Anderson Ln,4.7,20000,https://www.ubereats.com/store/star-of-india/W8glKbTNSm6UsZlXGcIQtw,2026-04-22T00:31:58.778985
+Arpeggio Grill,6619 Airport Blvd,4.7,20000,https://www.ubereats.com/store/arpeggio-grill-airport-blvd/76E7snV0RX-mDtKeLV4fCw,2026-04-22T00:32:11.191664
+Ali Gyro Halal,307 East 5th Street,4.7,20000,https://www.ubereats.com/store/ali-gyro-halal/m1f-jpg-XeSisFLpZKXe2w,2026-04-22T00:32:22.988964
+bb.q Chicken,6929 Airport Boulevard,4.7,20000,https://www.ubereats.com/store/bbq-chicken-highland-village-tx/Gh_SfRZgS-W6WkkuAk5fJg,2026-04-22T00:32:35.187325
+El Primo,2101 South 1st Street,4.7,20000,https://www.ubereats.com/store/el-primo/iHAPcjbLWmeVlCnLJzyheA,2026-04-22T00:32:49.249852
+Blenders And Bowls,1625 E 6th St,4.7,20000,https://www.ubereats.com/store/blenders-and-bowls-eastside/Yv_guJSRSuKBA80XtPluoA,2026-04-22T00:33:02.016967
+Proud Mary Coffee,2043 South Lamar Boulevard,4.7,20000,https://www.ubereats.com/store/proud-mary-coffee/3VxxZy2URGSgYqHBzWjX4g,2026-04-22T00:33:13.969419
+Hoboken Pie,718 Red River St,4.7,20000,https://www.ubereats.com/store/hoboken-pie-austin/jkJ5SXuCRS6tfVLCoeDUqg,2026-04-22T00:33:25.231915
+Bird Bird Biscuit,2701 Manor Rd,4.7,20000,https://www.ubereats.com/store/bird-bird-biscuit-manor-rd/jb3RNIJqSumyimmL3a7vLA,2026-04-22T00:33:38.446294
+Tejas Birria,511 Industrial Boulevard,4.7,20000,https://www.ubereats.com/store/tejas-birria-austin/OoP-glzWW5q32THeHxkmMw,2026-04-22T00:33:51.029145
+Mr. Gatti's Pizza,"3720 Far West Blvd, Suite 114",4.7,20000,https://www.ubereats.com/store/mr-gattis-pizza-far-west/dkLGJR-9Vt-xHz1yrrDPGg,2026-04-22T00:34:09.554222
+Nimto Kitchen,"2237 East Riverside Drive, Ste 101A",4.7,20000,https://www.ubereats.com/store/nimto-kitchen-2237-east-riverside-drive-ste-101a/G0m-jgkGWl6X22e1b82g5Q,2026-04-22T00:34:21.649192
+Marco’s Pizza,6800 West Gate Blvd Ste 100,4.7,20000,https://www.ubereats.com/store/marcos-pizza-6800-west-gate-blvd/pu0xjGFnQsqxK5y7qX2YQg,2026-04-22T00:34:33.955212
+Gyro Center,1309 W 45th St,4.7,20000,https://www.ubereats.com/store/gyro-center-1309-w-45th-st/J6h465nHTzCa_Mm2a7_-OQ,2026-04-22T00:34:46.770136
+Xian Sushi and Noodle,1801 E 51st St,4.7,20000,https://www.ubereats.com/store/xian-sushi-and-noodle-mueller/VZWJowv5RN2eGY4UZq6jcQ,2026-04-22T00:34:58.919213
+Oseyo,1628 E Cesar Chavez St,4.7,20000,https://www.ubereats.com/store/oseyo/lJUtet6NW0WJGaJ7T46GPw,2026-04-22T00:35:11.189422
+Poke-Poke,3100 S Congress Ave. Ste A,4.7,20000,https://www.ubereats.com/store/poke-poke-soco/OTG4X-NQVeWAiHS0mB0SsQ,2026-04-22T00:35:24.657355
+Fusion Everest Kitchen,1919 South Pleasant Valley Road,4.7,20000,https://www.ubereats.com/store/fusion-everest-kitchen/h7VSWV0oX2CzRaE3ywPSaw,2026-04-22T00:35:37.343813
+El Perrito ATX,730 West Stassney Lane #165,4.7,20000,https://www.ubereats.com/store/el-perrito-atx/mC9L9vMkWVmHS18wJ7cD-A,2026-04-22T00:35:48.551621
+Pizza Patron,5717 S Interstate 35 Bldg C Ste 150,4.7,20000,https://www.ubereats.com/store/pizza-patron-5717-s-interstate-35-bldg-c-ste-150/Tyw_Eq6xX82LsU0B24-pFw,2026-04-22T00:36:01.320362
+Culver's,3424 West William Cannon Drive,4.7,20000,https://www.ubereats.com/store/culvers-3424-w-william-cannon/hWboHjr_WCGpVM1ahCr-bQ,2026-04-22T00:36:14.694815
+Arlo's Jr.,2337 East Cesar Chavez Street,4.7,20000,https://www.ubereats.com/store/arlos-jr-cesar-chavez/__x4vdk9XQqfagEgZSjHLg,2026-04-22T00:36:27.403239
+Austin's Pizza,3601 W William Cannon Dr,4.7,20000,https://www.ubereats.com/store/austins-pizza-william-cannon-dr/K8ZzDz1lQFaKSXc5SgCpVw,2026-04-22T00:36:39.973318
+Ten Seconds Noodle House,9070 Research Boulevard,4.7,20000,https://www.ubereats.com/store/ten-seconds-noodle-house-austin/WSXTy4c3W2yempAvTeTMIQ,2026-04-22T00:36:54.729075
+Wholly Cow Burgers,3010 S Lamar Blvd,4.7,20000,https://www.ubereats.com/store/wholly-cow-burgers-south-lamar-blvd/0hVSKr5KSsWcTDYhyJQu8w,2026-04-22T00:37:08.592633
+Show Me Pizza,2809 South 1st Street,4.7,20000,https://www.ubereats.com/store/show-me-pizza/_8rQ0qhnQYiMRse_n_4QwQ,2026-04-22T00:37:21.188052
+Tacos Las Amazonas Estilo Jalisco #1,3504 S Congress Ave,4.7,20000,https://www.ubereats.com/store/tacos-las-amazonas-estilo-jalisco-1/cBYGu6G2Uhyt7BXqqJ0VIw,2026-04-22T00:37:35.032866
+Crepe Crazy,3103 S Lamar Blvd,4.7,20000,https://www.ubereats.com/store/crepe-crazy/Mx-HYgXUTmuRj32g4eIswQ,2026-04-22T00:37:48.247122
+The Alley Sunset Valley,"5400 Brodie Ln, Ste 1010",4.7,20000,https://www.ubereats.com/store/the-alley-sunset-valley-5400-brodie-ln-ste-1010/W7fp4bhdS_Ce6c8H3fhdFg,2026-04-22T00:38:00.678269
+Teal House Coffee & Bakery,2304 South Congress Avenue,4.7,20000,https://www.ubereats.com/store/teal-house-coffee-%26-bakery-s-congress-austin/30eJUlDOWuWNVpeumMBeuQ,2026-04-22T00:38:13.754843
+Auténticos michoacanos,2623 Jones Road,4.7,20000,https://www.ubereats.com/store/autenticos-michoacanos/_PyaqfZOTCO0b7V-2BiOOg,2026-04-22T00:38:30.331710
+Wingzup,"1000 E 41st Street, Suite 210",4.7,20000,https://www.ubereats.com/store/wingzup-e-41st/s5mRpgkHXlmoRFEAhhEg_w,2026-04-22T00:38:43.459159
+Granny's Tacos,1401 East 7th Street,4.7,20000,https://www.ubereats.com/store/grannys-tacos-voted-austins-1/LFP1Vu2GU1eRbLQDcVbykQ,2026-04-22T00:38:55.865576
+The Salty Donut,2000 S. Congress Ave.,4.7,20000,https://www.ubereats.com/store/the-salty-donut-south-congress/4tDY4yiTQKSaM0yUfAZzfA,2026-04-22T00:39:07.137409
+Conans Pizza,2018 W Stassney Ln,4.7,20000,https://www.ubereats.com/store/conans-pizza-south/U8nyF8luUESEi0Oognt1aw,2026-04-22T00:39:19.999384
+Casa Garcia's Mexican Restaurant,1901 West William Cannon Drive,4.7,20000,https://www.ubereats.com/store/casa-garcias-mexican-restaurant-william-cannon/l0NQqDivUOuXds819D03kA,2026-04-22T00:39:33.455328
+Juiced Up Cafe,200 West 6th Street,4.7,20000,https://www.ubereats.com/store/juiced-up-cafe-w-6th-st/9i9hmzDPWW-qG_dx3yDmkw,2026-04-22T00:39:47.357190
+El Chile Cafe y Cantina,1809 Manor Road,4.7,20000,https://www.ubereats.com/store/el-chile-cafe-y-cantina-manor/6q9wuewDR3S53wpwPA0x_w,2026-04-22T00:39:58.727551
+Cafe India,4894 US-290 W,4.7,20000,https://www.ubereats.com/store/cafe-india-4894-us-290-w/45me75ySSW2wNtTFIg2y9Q,2026-04-22T00:40:10.366867
+Lone Star Kolaches,3601 West William Cannon,4.7,20000,https://www.ubereats.com/store/lone-star-kolaches-south-austin/LJt3eTj1RL2krJGhQdwSfw,2026-04-22T00:40:21.636270
+Pinthouse Brewing,2201 East Ben White Boulevard,4.7,20000,https://www.ubereats.com/store/pinthouse-brewing-e-ben-white-blvd/JcMW8yuqWzuZGJhsjc0MlQ,2026-04-22T00:40:34.000479
+Sugar Mama's Bakeshop,1905 South 1st Street,4.7,20000,https://www.ubereats.com/store/sugar-mamas-bakeshop/vhIt9H8vUm-qPFNnPPMeiQ,2026-04-22T00:40:45.015223
+Arby's,4411 S Lamar Blvd,4.7,20000,https://www.ubereats.com/store/arbys-4411-s-lamar-blvd/YbyWcbdEVnWNsPy-BAhxPg,2026-04-22T00:40:54.587315
+Carrabba's,11590 Research Blvd,4.7,20000,https://www.ubereats.com/store/carrabbas-11590-research-blvd/hKWrprjBRzKY_0Ow5fPoWQ,2026-04-22T00:41:06.772737
+Nom Burgers,2324 East Cesar Chavez Street,4.7,20000,https://www.ubereats.com/store/nom-burgers-e-cesar-chavez/iGOqAZu4Xre65JWGwmP0uA,2026-04-22T00:41:17.829042
+El corazon catracho,4107 South 1st Street,4.7,20000,https://www.ubereats.com/store/el-corazon-catracho/7BWRkgCnWhCASP-3j2Dcsg,2026-04-22T00:41:29.026359
+Phil's Icehouse,2901 S Lamar Blvd,4.7,20000,https://www.ubereats.com/store/phils-icehouse-south-lamar/4D10KrIMXpS9Gru88KIYaw,2026-04-22T00:41:41.914093
+Black Sheep Lodge,2108 S Lamar Boulevard,4.7,20000,https://www.ubereats.com/store/black-sheep-lodge/UFx_tVxnT7WKkILpZXcO8A,2026-04-22T00:41:54.851382
+7beebz Korner,2324 East Cesar Chavez Street,4.7,20000,https://www.ubereats.com/store/7beebz-korner-2324-east-cesar-chavez-street/uwg3_HDpXPqg_-ITlJhpyw,2026-04-22T00:42:08.572647
+Sweetwaters Coffee & Tea,316 W 12th St,4.7,20000,https://www.ubereats.com/store/sweetwaters-coffee-%26-tea-texas-capitol/2zFwZdHfTeqogCCBm6-o6Q,2026-04-22T00:42:20.973186
+Grata's Pizzeria,2700 South Lamar Boulevard,4.7,20000,https://www.ubereats.com/store/gratas-pizzeria/7i7o1T5qRJ-cj1ChQu8n-w,2026-04-22T00:42:31.640632
+Casa de Luz,1701 Toomey Road,4.7,20000,https://www.ubereats.com/store/casa-de-luz/wjXjDBmuS-2zbD1ehGYEew,2026-04-22T00:42:48.358811
+"Jalisco's Restaurant & Bar at Austin, TX",6601 S Congress Ave,4.7,20000,https://www.ubereats.com/store/jaliscos-restaurant-%26-bar-at-austin-tx/wuRG8qmyW4uGdgVn9CYOyQ,2026-04-22T00:43:03.764468
+Texas Honey Ham Company,"3736 Bee Cave Rd, Suite 6",4.7,20000,https://www.ubereats.com/store/texas-honey-ham-company-bee-cave/TghmYn9iWwedaZEcRgWC3Q,2026-04-22T00:43:19.421859
+Amy's Ice Creams,1012 W 6th St,4.7,20000,https://www.ubereats.com/store/amys-ice-creams-6th-street/vOpT4x_UTDilQJYOCVdOaQ,2026-04-22T00:43:33.096073
+Habesha Restaurant and Bar,6019 N Interstate 35 Frontage Rd,4.7,20000,https://www.ubereats.com/store/habesha-restaurant-and-bar/v-MxpDdoSpe9Z_dsZfiElg,2026-04-22T00:43:44.910968
+Smoothie King,2414 Guadalupe Street,4.7,20000,https://www.ubereats.com/store/smoothie-king-2414-guadalupe-st/rNST-7jmVoWN1yM96VEc9g,2026-04-22T00:43:57.055320
+Golden Chick,616 W. Stassney Lane,4.7,20000,https://www.ubereats.com/store/golden-chick-616-w-stassney-lane/uyrsJGIVVV-qYzIzQsIY7g,2026-04-22T00:44:15.064286
+Mad Hot Dogs,2716 Guadalupe Street,4.7,20000,https://www.ubereats.com/store/mad-hot-dogs-austin/yTcusb5CXRO1XOmVEsvz1g,2026-04-22T00:44:29.643811
+El Marisquero Seafood,2056 West Stassney Lane,4.7,20000,https://www.ubereats.com/store/el-marisquero-seafood-stassney/vHW3yf1qWCq-Ds-cwFiUCw,2026-04-22T00:44:44.156170
+Crumbl,5207 Brodie Lane,4.7,20000,https://www.ubereats.com/store/crumbl-sunset-valley-tx/6_zUMuP1XfqUWUQOtk2ycw,2026-04-22T00:44:56.120991
+Poke House,"3652 Bee Cave Road, Unit 4",4.7,20000,https://www.ubereats.com/store/poke-house-bee-cave-road/SPuvULrTT3KXO2jctp999Q,2026-04-22T00:45:08.376830
+Whip in,1950 S Interstate 35,4.7,20000,https://www.ubereats.com/store/whip-in/9LUTeyCATMeK0dOyz9wMkQ,2026-04-22T00:45:23.679231
+Cafe Creme,1834 E Oltorf St,4.7,20000,https://www.ubereats.com/store/cafe-creme-e-oltorf/8lzf8rOVTKqxSP1NvN2bOw,2026-04-22T00:45:36.616223
+RAS Modern Indian,2700 South Congress Avenue,4.7,20000,https://www.ubereats.com/store/ras-modern-indian/ohxLXPKoSsajh7FgTbKLEA,2026-04-22T00:45:50.163478
+Sabor Tapatio,5604 S Congress Ave,4.7,20000,https://www.ubereats.com/store/sabor-tapatio-s-congress-ave/Y7jQ-zcmRUGydp65uxZu7Q,2026-04-22T00:46:02.694854
+Mala Chili,510 East Anderson Lane,4.7,20000,https://www.ubereats.com/store/mala-chili-anderson-lane/47zEZfuPXfK2t_ujff1IBw,2026-04-22T00:46:14.827969
+Michaels,5400 Brodie Ln Ste 350,4.7,20000,https://www.ubereats.com/store/michaels-5400-brodie-ln-ste-350/z0Vpxaj8UmiMo3_WkHPYfw,2026-04-22T00:46:25.981353
+Ace Hardware,718 W 29th St,4.7,20000,https://www.ubereats.com/store/ace-hardware-718-w-29th-st/WX_NdiMiXv6lYKdVGbWItQ,2026-04-22T00:46:38.895874
+Hui Lau Shan,Address not found,4.7,20000,https://www.ubereats.com/store/hui-lau-shan-austin-7020-easy-wind-dr/XoBZr1fNUd-EniyIuyHrSg,2026-04-22T00:46:55.931705
+Clean Juice,"6611 South MoPac Expressway, STE 600",4.7,20000,https://www.ubereats.com/store/clean-juice-william-cannon/tfzw0jnxV2C97I_mF0jIog,2026-04-22T00:47:10.097755

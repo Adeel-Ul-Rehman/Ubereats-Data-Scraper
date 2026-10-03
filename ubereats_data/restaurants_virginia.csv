@@ -1,0 +1,86 @@
+restaurant_name,address,rating,reviews,url,scraped_at,location
+Krazy Trompos,"217 South Rosemont Road, Virginia Beach, VA 23452",4.6,1000,https://www.ubereats.com/store/krazy-trompos/Qkcj0TZ9V6aUyJRTg4jxYg,2026-04-22T21:23:38.018415,Virginia
+Chinatown,"4848 Virginia Beach Blvd, Virginia Beach, VA 23462",4.7,3000,https://www.ubereats.com/store/chinatown/n626YITsQu-JO6PgbUfrvQ,2026-04-22T21:23:48.291857,Virginia
+Molly Ramen•Poke•Tea,"869 Lynnhaven Pkwy, Virginia Beach, VA 23452",4.7,3000,https://www.ubereats.com/store/molly-ramen•poke•tea/ml5M1Ar5Qa61xh2KSM9MUw,2026-04-22T21:24:01.115589,Virginia
+Saffron Indian Bistro (VA Beach),"4532 Columbus St, Virginia Beach, VA 23462",4.7,2000,https://www.ubereats.com/store/saffron-indian-bistro-va-beach/ziYRNo0qSVeD51cHuw8zXg,2026-04-22T21:24:14.456619,Virginia
+Jade Garden II,"1077 Virginia Beach Blvd, Virginia Beach, VA 23451",4.6,3000,https://www.ubereats.com/store/jade-garden-ii/9-F5WMVhRkquNRS55zDXYQ,2026-04-22T21:24:27.871815,Virginia
+Mr. Shawarma - Virginia Beach,"1965 Laskin Road, Virginia Beach, VA 23454",4.7,800,https://www.ubereats.com/store/mr-shawarma-virginia-beach/EnfkKjo5U-SKZmxaJTkBAw,2026-04-22T21:24:42.472405,Virginia
+The Twisted Crab (Lynnhaven Mall),"2712 N Mall Dr, Virginia Beach, VA 23452",4.4,1000,https://www.ubereats.com/store/the-twisted-crab-lynnhaven-mall/dmSNOmTwQ52pxCieGIB73A,2026-04-22T21:24:54.423223,Virginia
+Town Center Cold Pressed,"168 Central Park Avenue, Virginia Beach, VA 23462",4.7,1500,https://www.ubereats.com/store/town-center-cold-pressed/RgjbB4QYQyW6o1TkKkmFng,2026-04-22T21:25:10.771271,Virginia
+Azar’s Mediterranean Grill,"1624 Laskin Rd Ste 727A, Virginia Beach, VA 23451",4.7,2000,https://www.ubereats.com/store/azars-mediterranean-grill/OErUTrp3TXqjxI9UlB3iNw,2026-04-22T21:25:22.315451,Virginia
+Ouka Sora Poke•Ramen•Teriyaki•Tea (Virginia Beach),"2836 Virginia Beach Boulevard, Virginia Beach, VA 23452",4.7,430,https://www.ubereats.com/store/ouka-sora-poke•ramen•teriyaki•tea-virginia-beach/ZO_EfHmGUJmY2hAqLq7Prw,2026-04-22T21:25:34.912885,Virginia
+O'Yummy Sushi,"401 N Great Neck Rd, Virginia Beach, VA 23454",4.7,2000,https://www.ubereats.com/store/oyummy-sushi/-2Ugn3oTTrOOj5XtP9i3pg,2026-04-22T21:25:45.195213,Virginia
+Wings Go (Holland Road),"3501 Holland Road, 103, Virginia Beach, VA 23452",4.4,400,https://www.ubereats.com/store/wings-go-holland-road/NxFLAZDVVZaEjqJeh8mLCg,2026-04-22T21:25:56.694403,Virginia
+Handsome Biscuit (Virginia Beach),"4224 Virginia Beach Boulevard Ste 106, Virginia Beach, VA 23452",4.8,360,https://www.ubereats.com/store/handsome-biscuit-virginia-beach/h3ccUieqUhGkbCj2Vf3Bxg,2026-04-22T21:26:10.289206,Virginia
+Las Palmas Mexican Restaurant (Hilltop),"620 First Colonial Road, Virginia Beach, VA 23451",4.5,1000,https://www.ubereats.com/store/las-palmas-mexican-restaurant-hilltop/VUNuk_zLWqu5SbrxeK-Hpg,2026-04-22T21:26:20.646714,Virginia
+Wang Jiang Lou (Virginia Beach),"550 First Colonial Road, Virginia Beach, VA 23451",4.5,340,https://www.ubereats.com/store/wang-jiang-lou-virginia-beach/lGBlneEQUxqXXjWJcupGMQ,2026-04-22T21:26:30.760264,Virginia
+Kao Thai,"550 First Colonial Road, Virginia Beach, VA 23451",4.7,2000,https://www.ubereats.com/store/kao-thai/H4Xns0qVSA-5E7N86RScwQ,2026-04-22T21:26:44.758911,Virginia
+Plaza Degollado (Virginia Beach),"198 Newtown Road, Virginia Beach, VA 23462",4.6,1500,https://www.ubereats.com/store/plaza-degollado-virginia-beach/WWBf5rWaSWqUi4-BgvE5kQ,2026-04-22T21:26:58.385750,Virginia
+Mei Zhen Chinese Restaurant (Virginia Beach),"1624 Laskin Road, Virginia Beach, VA 23451",4.5,1500,https://www.ubereats.com/store/mei-zhen-chinese-restaurant-virginia-beach/_7xUD4ijQCWEM5bY51LRfQ,2026-04-22T21:27:07.075881,Virginia
+Sakura Japanese Restaurant (2973 Shore Dr.),"2973 Shore Drive, Virginia Beach, VA 23451",4.7,800,https://www.ubereats.com/store/sakura-japanese-restaurant-2973-shore-dr/A-kLg_W7StSsVi1Z9593dA,2026-04-22T21:27:17.934860,Virginia
+The Beach Bully BBQ Restaurant,"601 19Th St, Virginia Beach, VA 23451",4.6,1000,https://www.ubereats.com/store/the-beach-bully-bbq-restaurant/AjlmGVuKQeSYP_Y7x5GngA,2026-04-22T21:27:29.281159,Virginia
+Aloha Snacks (501 Laskin Road),"501 Laskin Road, Virginia Beach, VA 23451",4.5,1000,https://www.ubereats.com/store/aloha-snacks-501-laskin-road/lTVq6HyMXi24HmhYzTHQ8A,2026-04-22T21:27:43.063092,Virginia
+Bad Ass Coffee (Virginia Beach),"619 18th St, Virginia Beach, VA 23451",4.8,1500,https://www.ubereats.com/store/bad-ass-coffee-virginia-beach/PO0qA_8bTg2pJHpuzTbH0A,2026-04-22T21:27:55.229677,Virginia
+Zeke's Beans & Bowls -- Virginia Beach,"616 Norfolk Ave, Virginia Beach, VA 23451",4.8,280,https://www.ubereats.com/store/zekes-beans-%26-bowls-virginia-beach/Yjn_n-sGWVON1mF6IXvjCw,2026-04-22T21:28:08.196763,Virginia
+Zero's Subs - Oceanfront,"632 Virginia Beach Boulevard Virginia Beach, VA 23451",4.7,230,https://www.ubereats.com/store/zeros-subs-oceanfront/NzWKslh3XDiQmoDhLx7_5A,2026-04-22T21:28:20.539952,Virginia
+Waterman's Surfside Grille (415 Atlantic Ave),"415 Atlantic Ave, Virginia Beach, VA 23451",4.6,10000,https://www.ubereats.com/store/watermans-surfside-grille-415-atlantic-ave/GMaeeRlpWxu24d1SkgDFjA,2026-04-22T21:28:39.201332,Virginia
+Blue Fin Japanese Restaurant,"1625 Hilltop West Shopping Ctr, Virginia Beach, VA 23451",4.7,280,https://www.ubereats.com/store/blue-fin-japanese-restaurant/QNiz3GqiWNGwCjrHezq1RA,2026-04-22T21:28:49.400365,Virginia
+Pelon's Baja Grill - Oceanfront,"3619 Pacific Ave, Virginia Beach, VA 23451",4.6,130,https://www.ubereats.com/store/pelons-baja-grill-oceanfront/ScfwqsEKUKCzTuMjZgH75w,2026-04-22T21:29:02.830567,Virginia
+Wings-Go (Virginia Beach),"0 delivery fee
+
+Other fees 
+
+14 min
+
+Earliest arrival 
+
+1077 Virginia Beach Boulevard Virginia Beach
+
+, VA",4.6,330,https://www.ubereats.com/store/wings-go-virginia-beach/5CI_skdMXl2Qd2p_s3JUNw,2026-04-22T21:29:16.356241,Virginia
+Pho 79 -- Hilltop,"507 Hilltop Plz, Virginia Beach, VA 23454",4.7,1000,https://www.ubereats.com/store/pho-79-hilltop/jH9USbUCSUmkKZnRjW9e3A,2026-04-22T21:29:25.955858,Virginia
+Cholo's Peruvian Restaurant,"2728 North Mall Dr Ste 117, Virginia Beach, VA 23452",4.7,270,https://www.ubereats.com/store/cholos-peruvian-restaurant/Y1oXZGB2Uh2jCRc7hghGVw,2026-04-22T21:29:39.445691,Virginia
+Baker's Crust Bagel (704 Hilltop North Shopping Ctr),"704 Hilltop North Shopping Ctr, Virginia Beach, VA 23451",4.7,340,https://www.ubereats.com/store/bakers-crust-bagel-704-hilltop-north-shopping-ctr/KJe5-hfmXseDvrL_9pl0VQ,2026-04-22T21:29:50.231040,Virginia
+Taqueria Jessy's,"1021 Virginia Beach Blvd, Virginia Beach, VA 23451",4.4,940,https://www.ubereats.com/store/taqueria-jessys/JfyxUkigWByjINezW0U5Dw,2026-04-22T21:30:00.300523,Virginia
+No Frill Bar & Grill -- Virginia Beach,"1620 Laskin Rd, Virginia Beach, VA 23451",4.6,190,https://www.ubereats.com/store/no-frill-bar-%26-grill-virginia-beach/KmheYgNMWaut8wVObINc_A,2026-04-22T21:30:10.435995,Virginia
+Biryani Hub,"5745 E Virginia Beach Blvd, Norfolk, VA 23502",4.6,3000,https://www.ubereats.com/store/biryani-hub/aKuDIxSFThiJxZEBEynVoQ,2026-04-22T21:30:25.552123,Virginia
+Alohahola(Newtown Road),"430 Newtown Rd, Virginia Beach, VA 23462-5619",4.7,500,https://www.ubereats.com/store/alohaholanewtown-road/tc3enPzPVMOVtZX_KWRdmA,2026-04-22T21:30:37.755825,Virginia
+China East (Virginia Beach),"3545 Buckner Blvd #107, Virginia Beach, VA 23453",4.6,1500,https://www.ubereats.com/store/china-east-virginia-beach/dvkdTnMtXbOblOuTiSGecg,2026-04-22T21:30:48.361877,Virginia
+Hokkaido Sushi Bar,"233 Granby Street, Norfolk, VA 23510",4.8,3000,https://www.ubereats.com/store/hokkaido-sushi-bar/q3SfiYIaQAKRY1hSPoBspw,2026-04-22T21:31:02.905959,Virginia
+NY Bagel Cafe - Virginia Beach,"4512 Princess Anne Rd, Virginia Beach, VA 23462",4.7,900,https://www.ubereats.com/store/ny-bagel-cafe-virginia-beach/Kug16psvR8-xNyx9xfj0lA,2026-04-22T21:31:13.094879,Virginia
+Yomi Japanese Hibachi & Sushi (Princess Anne Rd),"5152 Princess Anne Road, Virginia Beach, VA 23462",4.7,1000,https://www.ubereats.com/store/yomi-japanese-hibachi-%26-sushi-princess-anne-rd/871KyfXBVeWjwFV9kEiNLQ,2026-04-22T21:31:25.892406,Virginia
+saigon #1 vietnamese cuisine,"448 Newtown Rd, Virginia Beach, VA 23462",4.7,1500,https://www.ubereats.com/store/saigon-1-vietnamese-cuisine/rZsf97xZQHW1SmPc33xWfg,2026-04-22T21:31:38.928250,Virginia
+Pokey,"215 Granby St, Norfolk, VA 23510",4.8,2000,https://www.ubereats.com/store/pokey/iAZ4HcAtQf-Q2Q8iIWXpWw,2026-04-22T21:31:53.176049,Virginia
+Tupelo Honey - Virginia Beach,"4501 Main St, Virginia Beach, VA 23462",4.5,190,https://www.ubereats.com/store/tupelo-honey-virginia-beach/OJKaKpzaVAGztxNRns1Jnw,2026-04-22T21:32:08.217868,Virginia
+757 Korean BBQ,"4885 N Witchduck Rd, Virginia Beach, VA 23455",4.7,190,https://www.ubereats.com/store/757-korean-bbq/mY4DCxkcStqX84ZSwLzokg,2026-04-22T21:32:24.280910,Virginia
+Wasserhund Brewing Co,"1805 Laskin Rd, Virginia Beach, VA 23454",4.5,330,https://www.ubereats.com/store/wasserhund-brewing-co/YJqF2vLlR6Gp3sD_w5P_dg,2026-04-22T21:32:37.166818,Virginia
+Jens Thai Cuisine,"1385 Fordham Dr, Virginia Beach, VA 23464",4.7,500,https://www.ubereats.com/store/jens-thai-cuisine/C1zrd3K2XBCfRkcaJjII2g,2026-04-22T21:32:47.302477,Virginia
+Nawab Indian Cuisine (Virginia Beach),"756 First Colonial Road, Virginia Beach, VA 23451",4.7,1000,https://www.ubereats.com/store/nawab-indian-cuisine-virginia-beach/tf650Nt3RSWdoJQ0HLgu6A,2026-04-22T21:32:57.746314,Virginia
+Maracaibo Bistro,"2876 Virginia Beach Boulevard, Virginia Beach, VA 23452",4.7,200,https://www.ubereats.com/store/maracaibo-bistro/GR6uGU92XqCRjl6TEl-cqQ,2026-04-22T21:33:11.326169,Virginia
+Jerrrk Time Caribbean Cuisine Restaurant,"3540 South Plaza Trail, Virginia Beach, VA 23452",4,600,https://www.ubereats.com/store/jerrrk-time-caribbean-cuisine-restaurant/2fzwCj-qUY2UPXoRYWCPvQ,2026-04-22T21:33:21.894598,Virginia
+Chicho's Pizza (29th Street),"2820 Pacific Ave, Virginia Beach, VA 23451",4.4,700,https://www.ubereats.com/store/chichos-pizza-29th-street/cryVhm8VStWAYSPrD4bS0A,2026-04-22T21:33:34.969145,Virginia
+Akshaya Indian Cuisine,"1715 Harpers Road, Virginia Beach, VA 23454",4.2,160,https://www.ubereats.com/store/akshaya-indian-cuisine/LSAKPCVPTi6mXmyaz_VO-Q,2026-04-22T21:33:47.112950,Virginia
+Mason's Famous Lobster Rolls (Oceanfront),"600 Atlantic Avenue, Virginia Beach, VA 23451",4.7,270,https://www.ubereats.com/store/masons-famous-lobster-rolls-oceanfront/id03KHLqWAis8swqvH-NcQ,2026-04-22T21:33:59.020336,Virginia
+mezeh (lynnhaven),"701 Lynnhaven Parkway, Virginia Beach, VA 23452",4.7,1000,https://www.ubereats.com/store/mezeh-lynnhaven/EePRazZ0Xni1EujulNM29A,2026-04-22T21:34:11.798080,Virginia
+The Bagel Baker,"1340 North Great Neck Road, Virginia Beach, VA 23454",4.7,230,https://www.ubereats.com/store/the-bagel-baker/QfTd6Cb2RuqPUA0WI8a6Yw,2026-04-22T21:34:22.502798,Virginia
+Pollard's Chicken & Catering (London Bridge),"100 London Bridge Rd Virginia Beach, Virginia Beach, VA 23454",4.6,900,https://www.ubereats.com/store/pollards-chicken-%26-catering-london-bridge/eTdfHwQmSoyfcw9EnhIp8Q,2026-04-22T21:34:33.725969,Virginia
+Bilu's Restaurant (Virginia Beach),"544 Newtown Rd, Virginia Beach, VA 23462",4.7,700,https://www.ubereats.com/store/bilus-restaurant-virginia-beach/0rNJnjCFRvW4CMuiTJwhig,2026-04-22T21:34:43.938350,Virginia
+Han Xing Chinese Restaurant,"1309 Fordham Drive 101, Virginia Beach, VA 23464",4.7,1000,https://www.ubereats.com/store/han-xing-chinese-restaurant/4Kins-vURSSwRua65ixcmQ,2026-04-22T21:34:56.887943,Virginia
+Yama Sushi Roll House (1485 General Booth Blvd),"1485 General Booth Blvd, Virginia Beach, VA 23454",4.8,900,https://www.ubereats.com/store/yama-sushi-roll-house-1485-general-booth-blvd/0KwFVtT8QZmZQz9ycSOinw,2026-04-22T21:35:19.467682,Virginia
+Masala Bites (Virginia Beach),"2133 Upton Drive, Virginia Beach, VA 23454",4.8,500,https://www.ubereats.com/store/masala-bites-virginia-beach/W-zPogUeQEGUJMkPd5J5eQ,2026-04-22T21:35:33.032241,Virginia
+Ynot Italian -- Great Neck,"2102 Great Neck Square, Virginia Beach, VA 23454",4.3,500,https://www.ubereats.com/store/ynot-italian-great-neck/aRQbgT5TVnihYXouRgA7Lw,2026-04-22T21:35:42.453145,Virginia
+T'Mochi,"2728 North Mall Drive, Virginia Beach, VA 23452",4.8,120,https://www.ubereats.com/store/tmochi/M2EL7K9kUayANvfHA_kszQ,2026-04-22T21:35:57.037807,Virginia
+First Watch (Lynnhaven),"2850 Virginia Beach Blvd, Virginia Beach, VA 23452",4.6,1500,https://www.ubereats.com/store/first-watch-lynnhaven/5f2SbvbEQZiuQaIUjCEs9A,2026-04-22T21:36:13.765045,Virginia
+Applebee's (Loehmann's Plaza),"4040 Virginia Beach Blvd, Virginia Beach, VA 23452",4.3,1000,https://www.ubereats.com/store/applebees-loehmanns-plaza/_5Abn1HRRwG5MKGUrNIlRQ,2026-04-22T21:36:32.892224,Virginia
+Village Inn (313 Independence Blvd),"313 Independence Blvd, Virginia Beach, VA 23462",4.6,2000,https://www.ubereats.com/store/village-inn-313-independence-blvd/FlizzpQ2TTeTK6960BT_rg,2026-04-22T21:36:45.107595,Virginia
+Peter Chang (Hampton Roads),"3364 Princess Anne Rd, #505, Virginia Beach, VA 23453",4.6,1000,https://www.ubereats.com/store/peter-chang-hampton-roads/ZMbn5utlREO7ygdQw0wiPg,2026-04-22T21:36:55.266162,Virginia
+Las Palmas Mexican Restaurant (Oceanfront),"3316 Atlantic Avenue, Virginia Beach, VA 23451",4.5,100,https://www.ubereats.com/store/las-palmas-mexican-restaurant-oceanfront/Kj7dM7svXrakXS7qalnwtw,2026-04-22T22:17:55.233136,virginia
+Tida Thai,"2133 Upton Dr, Virginia Beach, VA 23454",4.7,1000,https://www.ubereats.com/store/tida-thai/nFFErS8cSE2JggCE4iJSnA,2026-04-22T22:18:05.512508,virginia
+Racha Thai Cuisine (Virginia Beach),"1427 North Great Neck Road, Virginia Beach, VA 23454",4.8,100,https://www.ubereats.com/store/racha-thai-cuisine-virginia-beach/TsnXZnb2WOWOAxQDaWHUQw,2026-04-22T22:18:18.266646,virginia
+Boil Bay Cajun Seafood (Virginia Beach),"3244 Holland Road, Virginia Beach, VA 23453",4.5,800,https://www.ubereats.com/store/boil-bay-cajun-seafood-virginia-beach/qv8T9v7CS1a2NUhfcgaIlw,2026-04-22T22:18:27.470709,virginia
+Philly Cold Cuts (315 N Great Neck Rd),"315 N Great Neck Rd #136, Virginia Beach, VA 23454",4.7,700,https://www.ubereats.com/store/philly-cold-cuts-315-n-great-neck-rd/av_wJPe4SlW_zt7d2lnFXw,2026-04-22T22:18:40.348659,virginia
+Anna’s Kitchen,"1940 Laskin Rd, Virginia Beach, VA 23454",4.7,600,https://www.ubereats.com/store/annas-kitchen/jHMH_xjsTfuvDI7JI3xjMg,2026-04-22T22:18:53.490518,virginia
+Beijing Palace,"315 North Great Neck Road, 308, Virginia Beach, VA 23454",4.8,230,https://www.ubereats.com/store/beijing-palace/PWp4HGOvXeC7x8WOIdL0hA,2026-04-22T22:19:04.388049,virginia
+K-CHICKEN,"908 S Lynnhaven Rd, Virginia Beach, VA 23452",4.8,330,https://www.ubereats.com/store/k-chicken/92AJLfYwRpuxd8L-Ebj_8A,2026-04-22T22:19:16.526914,virginia
+KOCO Korean Fried Chicken & Croffles,"4876 Princess Anne Road, Virginia Beach, VA 23462",4.7,260,https://www.ubereats.com/store/koco-korean-fried-chicken-%26-croffles/ALl5K9liU7ycGiPphjeOZw,2026-04-22T22:19:31.547033,virginia
+Bonchon (Virginia Beach),"1637 Hilltop West Shopping Center, Virginia Beach, VA 23451",4.5,600,https://www.ubereats.com/store/bonchon-virginia-beach/P5VQPlA_XTCil47pov1_hg,2026-04-22T22:19:43.467816,virginia
+Arby's (757 First Colonial),"757 First Colonial, Virginia Beach, VA 23451",4.1,900,https://www.ubereats.com/store/arbys-757-first-colonial/JlrNyn78TICMMcsoG-zBbw,2026-04-22T22:20:12.023873,virginia

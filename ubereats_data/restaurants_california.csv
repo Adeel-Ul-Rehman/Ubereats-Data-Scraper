@@ -1,0 +1,5 @@
+restaurant_name,address,rating,reviews,url,scraped_at,location
+Denny's (530 South Clovis Ave),"530 South Clovis Ave., Fresno, CA 93727",4.5,1000,https://www.ubereats.com/store/dennys-530-south-clovis-ave/2x_4X9oPRhCy-eyv8TtDjg,2026-04-22T20:42:47.663202,California
+Denny's (536 Academy Ave),"536 Academy Ave, Sanger, CA 93657",4.6,100,https://www.ubereats.com/store/dennys-536-academy-ave/4ERrGHZFS1q_gUGgvdbsuQ,2026-04-22T20:42:59.950132,California
+"Arsenio's Mexican Food (Belmont Ave, Fresno)","4791 E Belmont Ave, Fresno, CA 93702",4.3,2000,https://www.ubereats.com/store/arsenios-mexican-food-belmont-ave-fresno/LQJeov_IQIqjkE14NpCzew,2026-04-22T20:43:12.322667,California
+Churrasco Grill (Fresno),"1901 North Gateway Boulevard, Fresno, CA 93727",4.8,700,https://www.ubereats.com/store/churrasco-grill-fresno/ZSMfJtghUWyTaVbpcx8uIA,2026-04-22T20:43:19.749242,California
